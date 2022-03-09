@@ -6,4 +6,4 @@ git pull -all
 git checkout dev
 git checkout --b task
 
-#this is coomit 1
+#this is coomit 2
