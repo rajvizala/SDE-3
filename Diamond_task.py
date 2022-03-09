@@ -1,4 +1,4 @@
-#this is commit 2
+#this is commit 3
 
 rows=int(input("enter no of rows:"))
 k=rows-1
