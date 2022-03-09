@@ -1,3 +1,5 @@
+#this is commit 1
+
 rows=int(input("enter no of rows:"))
 k=rows-1
 for i in range(rows):
